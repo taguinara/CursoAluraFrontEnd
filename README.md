@@ -2,4 +2,4 @@
 
 Projetos realizados:
 
-- BarbeariaAlura = Criação do site da Barbearia Alura utilizando HTML5 e CSS3.
+* Barbearia Alura - Criação do site utilizando HTML5 e CSS3.
